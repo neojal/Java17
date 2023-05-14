@@ -5,13 +5,16 @@
 ## ToDo
 
 ### Introduction Chapter
-  ❌ Assessment Test.
+    ❌ Assessment Test.
 	❌ Taking the exam, describes the process of.
 
 ### Chapter 1 - Building Blocks
 
 
-## Notes
+## Resources
 
-https://newrelic.com/resources/report/2023-state-of-the-java-ecosystem
+- https://newrelic.com/resources/report/2023-state-of-the-java-ecosystem
+- https://coderanch.com/f/24/java-programmer-OCPJP
 - 
+
+
